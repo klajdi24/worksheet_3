@@ -66,3 +66,7 @@ li{
     darkslateblue;
 
 }
+.caption {
+    font-size: 15px;
+    font-style: italic
+}
